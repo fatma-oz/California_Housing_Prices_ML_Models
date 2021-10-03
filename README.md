@@ -24,3 +24,4 @@
 *MAE, R2, MSE values were examined.
 
 *R2 and MAE values were visualized with the plt function from the matplotlib library.
+
