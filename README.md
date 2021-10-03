@@ -13,6 +13,8 @@
 * Ridge Regression 
 * KernelRidge Regression
 * GaussianProcess Regression
+* SVR (Support vector regression)
+* DecisionTree Regression
 * PLS Regression
 * AdaBoost Regression
 * KNeighbors Regression
