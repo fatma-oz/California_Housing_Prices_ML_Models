@@ -1,4 +1,5 @@
-# Machine_learning_models_regression
+# California_Housing_Prices_Machine Learning_Models
+
 
 
 *CALIFORNIA HOUSE PRICE data was used in this study.
@@ -20,6 +21,7 @@
 * KNeighbors Regression
 * MLP Regression
 * RandomForest Regression
+* XGBoost Regression
 
 *MAE, R2, MSE values were examined.
 
